@@ -16,3 +16,6 @@ In short terms, the fastest proxy in the world. Guaranteed satisfaction, 24/7 up
 
 ## So..
 What are you waiting for? We have so much to offer, and much more to come, too.
+
+## Please note
+If you are here looking for open-source code for proxies, it is staying closed-source for the time being.
